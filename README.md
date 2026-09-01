@@ -23,11 +23,9 @@
 - ⚡ **Fun Fact:** I love optimizing workflows and writing clean, maintainable code.
 - 💬 **Ask Me About:** Web development, version control, or open-source collaboration.
 
-<p align="center">  
-
-### 🛠️ Tech Stack & Skills
-
-</p>
+<h3 align="center">  
+🛠️ Tech Stack & Skills
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,15 +46,34 @@
 </p>
 </div>
 <hr />
-
-
-### 📊 Language Distribution
+<h3 align="center"><b>System & Infrastructure</b></h3>
 <p align="center">
-  Python, CSS, HTML, JSON, API, YAML
+  <img src="https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white" alt="ProxMox" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff" alt="AlpineLinux" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
 
-### 📬 Connect With Me
-<p align="left">
+<h3 align="center"><b>📊 Language Distribution - Web/Database/Collaboration Technologies</b></h3>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff" alt="Slack" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="NPM" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" alt="Powershell" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" alt="YAML" />
+</p>
+
+
+<h3 align="center">
+📬 Connect With Me
+</h3>
+<p align="center">
   <a href="https://linkedin.com/in/allysonseybert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -64,3 +81,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
