@@ -4,7 +4,6 @@
 
   <!-- Dynamic Stats Top Grid -->
   <p>
-    <img src="https://is-a.dev" alt="Allyson's GitHub Stats" height="180px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllysonOfficial079&theme=tokyonight" alt="Allyson's Contribution Streak" height="180px" />
   </p>
 </div>
@@ -30,7 +29,7 @@
 
 ### 📊 Language Distribution
 <p align="center">
-  <img src="https://is-a.dev" width="60%" />
+  Python, CSS, HTML, JSON, API, YAML
 </p>
 
 ### 📬 Connect With Me
