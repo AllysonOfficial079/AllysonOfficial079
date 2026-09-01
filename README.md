@@ -23,6 +23,7 @@
 - ⚡ **Fun Fact:** I love optimizing workflows and writing clean, maintainable code.
 - 💬 **Ask Me About:** Web development, version control, or open-source collaboration.
 
+<div align="center">
 ### 🛠️ Tech Stack & Skills
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -41,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" alt="Proxmos" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="45" height="45" />       
 </p>
-
+</div>
 <hr />
 
 
