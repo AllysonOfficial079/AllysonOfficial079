@@ -7,11 +7,12 @@
 <div align="center">
   <h2>📊 My GitHub Metrics</h2>
   
-  <!-- General Stats and Streak side-by-side -->
-  <p align="center">
-    <img src="https://is-a.dev" alt="Allyson's Stats" height="180px" />
-    <img src="https://herokuapp.com" alt="Allyson's Streak" height="180px" />
+  <!-- Dynamic Stats Top Grid -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AllysonOfficial079&show_icons=true&theme=tokyonight&count_private=true" alt="Allyson's GitHub Stats" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllysonOfficial079&theme=tokyonight" alt="Allyson's Contribution Streak" height="180px" />
   </p>
+</div>
 
   <!-- Language Distribution Card -->
   <p align="center">
